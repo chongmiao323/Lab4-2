@@ -1,0 +1,56 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "dateOfBirth": "1990-05-15",
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001"
+    },
+    "userPreferences": {
+      "theme": "dark",
+      "language": "English",
+      "notifications": true,
+      "subscription": true
+    }
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@example.com",
+    "dateOfBirth": "1995-11-22",
+    "address": {
+      "street": "456 Oak Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90001"
+    },
+    "userPreferences": {
+      "theme": "light",
+      "language": "Spanish",
+      "notifications": false,
+      "subscription": false
+    }
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "email": "bob.johnson@example.com",
+    "dateOfBirth": "1988-03-10",
+    "address": {
+      "street": "789 Pine Rd",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60601"
+    },
+    "userPreferences": {
+      "theme": "dark",
+      "language": "French",
+      "notifications": true,
+      "subscription": true
+    }
+  }
+]
